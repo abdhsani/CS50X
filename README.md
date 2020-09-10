@@ -16,4 +16,4 @@ CS50x is Harvard University's introduction to the intellectual enterprises of co
 
 ## References
 
-You can find out more about this course at [CS50 Website Here](https://cs50.harvard.edu/x/2020/)
+You can find out more about this course at [CS50x Website](https://cs50.harvard.edu/x/2020/)
